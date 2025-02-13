@@ -10,7 +10,7 @@
   <project name="LineageOS/AndroidAsync" />
   <project name="LineageOS/Superuser" />
   <project name="LineageOS/Widgets" />
-  <project name="LineageOS/android" />
+  <project name="murikbmx/android" />
   <project name="LineageOS/android_abi_cpp" />
   <project name="LineageOS/android_art" />
   <project name="LineageOS/android_bionic" />
