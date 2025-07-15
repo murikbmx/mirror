@@ -488,6 +488,7 @@
   <project name="LineageOS/android_packages_apps_InCallUI" />
   <project name="LineageOS/android_packages_apps_Jelly" />
   <project name="LineageOS/android_packages_apps_KeyChain" />
+  <project name="LineageOS/android_packages_apps_Launcher3" />
   <project name="LineageOS/android_packages_apps_LineageCustomizer" />
   <project name="LineageOS/android_packages_apps_LineageParts" />
   <project name="LineageOS/android_packages_apps_LockClock" />
@@ -549,6 +550,7 @@
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
+  <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
@@ -669,6 +671,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_agm" />
   <project name="LineageOS/android_vendor_qcom_opensource_arpal-lx" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
   <project name="LineageOS/android_vendor_qcom_opensource_audioreach-graphservices" />
@@ -684,6 +687,8 @@
   <project name="LineageOS/android_vendor_qcom_opensource_display" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-core" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />

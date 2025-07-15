@@ -218,6 +218,7 @@
   <project name="LineageOS/android_device_google_sunfish" />
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_tangorpro" />
+  <project name="LineageOS/android_device_google_tegu" />
   <project name="LineageOS/android_device_google_tokay" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
@@ -460,6 +461,7 @@
   <project name="LineageOS/android_device_lge_sdm845-common" />
   <project name="LineageOS/android_device_lge_sm8150-common" />
   <project name="LineageOS/android_device_lge_star-common" />
+  <project name="LineageOS/android_device_lge_style3lm" />
   <project name="LineageOS/android_device_lge_su640" />
   <project name="LineageOS/android_device_lge_thunderc" />
   <project name="LineageOS/android_device_lge_thunderg" />
@@ -644,6 +646,7 @@
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_msm8998-common" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
+  <project name="LineageOS/android_device_nothing_Pong" />
   <project name="LineageOS/android_device_nothing_Spacewar" />
   <project name="LineageOS/android_device_nubia_TP1803" />
   <project name="LineageOS/android_device_nubia_msm8998-common" />
@@ -1243,6 +1246,7 @@
   <project name="LineageOS/android_device_xiaomi_earth" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
+  <project name="LineageOS/android_device_xiaomi_fuxi" />
   <project name="LineageOS/android_device_xiaomi_gauguin" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_ginkgo" />
@@ -1281,6 +1285,7 @@
   <project name="LineageOS/android_device_xiaomi_mt6785-common" />
   <project name="LineageOS/android_device_xiaomi_munch" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
+  <project name="LineageOS/android_device_xiaomi_nuwa" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
@@ -1307,6 +1312,7 @@
   <project name="LineageOS/android_device_xiaomi_sm8250-common" />
   <project name="LineageOS/android_device_xiaomi_sm8350-common" />
   <project name="LineageOS/android_device_xiaomi_sm8450-common" />
+  <project name="LineageOS/android_device_xiaomi_sm8550-common" />
   <project name="LineageOS/android_device_xiaomi_socrates" />
   <project name="LineageOS/android_device_xiaomi_surya" />
   <project name="LineageOS/android_device_xiaomi_sweet" />
@@ -1319,6 +1325,7 @@
   <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_vayu" />
   <project name="LineageOS/android_device_xiaomi_vela" />
+  <project name="LineageOS/android_device_xiaomi_venus" />
   <project name="LineageOS/android_device_xiaomi_vince" />
   <project name="LineageOS/android_device_xiaomi_violet" />
   <project name="LineageOS/android_device_xiaomi_wayne" />
@@ -2181,6 +2188,9 @@
   <project name="LineageOS/android_kernel_nokia_msm8998" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
   <project name="LineageOS/android_kernel_nothing_sm7325" />
+  <project name="LineageOS/android_kernel_nothing_sm8475" />
+  <project name="LineageOS/android_kernel_nothing_sm8475-devicetrees" />
+  <project name="LineageOS/android_kernel_nothing_sm8475-modules" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
@@ -2603,6 +2613,7 @@
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
+  <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
@@ -2775,6 +2786,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_agm" />
   <project name="LineageOS/android_vendor_qcom_opensource_arpal-lx" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
   <project name="LineageOS/android_vendor_qcom_opensource_audioreach-graphservices" />
@@ -2790,7 +2802,9 @@
   <project name="LineageOS/android_vendor_qcom_opensource_display" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-core" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
