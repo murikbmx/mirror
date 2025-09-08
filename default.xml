@@ -152,6 +152,7 @@
   <project name="LineageOS/android_device_fairphone_FP3" />
   <project name="LineageOS/android_device_fairphone_FP4" />
   <project name="LineageOS/android_device_fairphone_FP5" />
+  <project name="LineageOS/android_device_freebox_nicepool" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_fxtec_pro1x" />
   <project name="LineageOS/android_device_geeksphone_one" />
@@ -170,6 +171,8 @@
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_akita" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_baracus" />
+  <project name="LineageOS/android_device_google_baracus_tab" />
   <project name="LineageOS/android_device_google_barbet" />
   <project name="LineageOS/android_device_google_beast" />
   <project name="LineageOS/android_device_google_bluejay" />
@@ -528,6 +531,7 @@
   <project name="LineageOS/android_device_motorola_clark" />
   <project name="LineageOS/android_device_motorola_common" />
   <project name="LineageOS/android_device_motorola_condor" />
+  <project name="LineageOS/android_device_motorola_denver" />
   <project name="LineageOS/android_device_motorola_devon" />
   <project name="LineageOS/android_device_motorola_droid2" />
   <project name="LineageOS/android_device_motorola_droid2we" />
@@ -560,6 +564,7 @@
   <project name="LineageOS/android_device_motorola_merlin" />
   <project name="LineageOS/android_device_motorola_messi" />
   <project name="LineageOS/android_device_motorola_miami" />
+  <project name="LineageOS/android_device_motorola_milanf" />
   <project name="LineageOS/android_device_motorola_montana" />
   <project name="LineageOS/android_device_motorola_morrison" />
   <project name="LineageOS/android_device_motorola_moto_msm8960" />
@@ -586,7 +591,9 @@
   <project name="LineageOS/android_device_motorola_otus" />
   <project name="LineageOS/android_device_motorola_parker" />
   <project name="LineageOS/android_device_motorola_payton" />
+  <project name="LineageOS/android_device_motorola_penang" />
   <project name="LineageOS/android_device_motorola_peregrine" />
+  <project name="LineageOS/android_device_motorola_pnangn" />
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_pstar" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
@@ -703,6 +710,7 @@
   <project name="LineageOS/android_device_oneplus_dre" />
   <project name="LineageOS/android_device_oneplus_dumpling" />
   <project name="LineageOS/android_device_oneplus_enchilada" />
+  <project name="LineageOS/android_device_oneplus_erhai" />
   <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
@@ -1220,6 +1228,7 @@
   <project name="LineageOS/android_device_virt_virtio_x86_64" />
   <project name="LineageOS/android_device_virt_virtio_x86_64_car" />
   <project name="LineageOS/android_device_virt_virtio_x86_64_tv" />
+  <project name="LineageOS/android_device_vsmart_casuarina" />
   <project name="LineageOS/android_device_wileyfox_crackling" />
   <project name="LineageOS/android_device_wileyfox_kipper" />
   <project name="LineageOS/android_device_wileyfox_porridge" />
@@ -1320,6 +1329,7 @@
   <project name="LineageOS/android_device_xiaomi_thor" />
   <project name="LineageOS/android_device_xiaomi_thyme" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
+  <project name="LineageOS/android_device_xiaomi_tucana" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
   <project name="LineageOS/android_device_xiaomi_umi" />
   <project name="LineageOS/android_device_xiaomi_unicorn" />
@@ -1871,6 +1881,7 @@
   <project name="LineageOS/android_hardware_nintendo_u-boot" />
   <project name="LineageOS/android_hardware_nothing" />
   <project name="LineageOS/android_hardware_nubia" />
+  <project name="LineageOS/android_hardware_nvidia_arm-trusted-firmware" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
   <project name="LineageOS/android_hardware_nvidia_hdmi-cec" />
@@ -1920,6 +1931,7 @@
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_tegra_nv-public" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
+  <project name="LineageOS/android_hardware_nvidia_u-boot" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
   <project name="LineageOS/android_hardware_oneplus" />
   <project name="LineageOS/android_hardware_oplus" />
@@ -2279,6 +2291,9 @@
   <project name="LineageOS/android_kernel_oneplus_sm8650" />
   <project name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" />
   <project name="LineageOS/android_kernel_oneplus_sm8650-modules" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750-devicetrees" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750-modules" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
   <project name="LineageOS/android_kernel_oppo_msm8939" />
@@ -2310,6 +2325,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8650" />
   <project name="LineageOS/android_kernel_qcom_sm8650-devicetrees" />
   <project name="LineageOS/android_kernel_qcom_sm8650-modules" />
+  <project name="LineageOS/android_kernel_qcom_sm8750" />
+  <project name="LineageOS/android_kernel_qcom_sm8750-devicetrees" />
+  <project name="LineageOS/android_kernel_qcom_sm8750-modules" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
@@ -2411,6 +2429,7 @@
   <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
   <project name="LineageOS/android_kernel_virt_virtio" />
+  <project name="LineageOS/android_kernel_vsmart_msm8953" />
   <project name="LineageOS/android_kernel_wingtech_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_aries" />
   <project name="LineageOS/android_kernel_xiaomi_armani" />
@@ -2611,6 +2630,7 @@
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
   <project name="LineageOS/android_packages_modules_Bluetooth" />
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
+  <project name="LineageOS/android_packages_modules_CellBroadcastService" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
@@ -2619,6 +2639,7 @@
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
+  <project name="LineageOS/android_packages_modules_UprobeStats" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
