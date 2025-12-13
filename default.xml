@@ -795,6 +795,7 @@
   <project name="LineageOS/android_device_radxa_radxa0_tab" />
   <project name="LineageOS/android_device_razer_aura" />
   <project name="LineageOS/android_device_razer_cheryl" />
+  <project name="LineageOS/android_device_razer_nicole" />
   <project name="LineageOS/android_device_realme_RMX1801" />
   <project name="LineageOS/android_device_realme_RMX1851" />
   <project name="LineageOS/android_device_realme_luigi" />
@@ -1052,6 +1053,7 @@
   <project name="LineageOS/android_device_samsung_quincytmo" />
   <project name="LineageOS/android_device_samsung_r5q" />
   <project name="LineageOS/android_device_samsung_r8q" />
+  <project name="LineageOS/android_device_samsung_r8s" />
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
   <project name="LineageOS/android_device_samsung_s3ve3g-common" />
@@ -1660,6 +1662,7 @@
   <project name="LineageOS/android_external_mesa" />
   <project name="LineageOS/android_external_mesa3d" />
   <project name="LineageOS/android_external_messageformat" />
+  <project name="LineageOS/android_external_minigbm-upstream" />
   <project name="LineageOS/android_external_mksh" />
   <project name="LineageOS/android_external_mm-dash" />
   <project name="LineageOS/android_external_mockito" />
@@ -1903,6 +1906,8 @@
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
   <project name="LineageOS/android_hardware_mainline" />
+  <project name="LineageOS/android_hardware_mainline_common" />
+  <project name="LineageOS/android_hardware_mainline_qcom" />
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
@@ -2369,6 +2374,7 @@
   <project name="LineageOS/android_kernel_qcom_sm8750-modules" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
+  <project name="LineageOS/android_kernel_razer_sg8175p" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
   <project name="LineageOS/android_kernel_realme_sdm710" />
   <project name="LineageOS/android_kernel_realme_sm6375" />
