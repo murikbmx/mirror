@@ -37,6 +37,7 @@
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_car" />
   <project name="LineageOS/android_device_google_contexthub" />
   <project name="LineageOS/android_device_lineage_atv" />
   <project name="LineageOS/android_device_lineage_car" />
@@ -192,6 +193,7 @@
   <project name="LineageOS/android_external_libgsm" />
   <project name="LineageOS/android_external_libhevc" />
   <project name="LineageOS/android_external_libjpeg-turbo" />
+  <project name="LineageOS/android_external_libjxl" />
   <project name="LineageOS/android_external_liblzf" />
   <project name="LineageOS/android_external_libmpeg2" />
   <project name="LineageOS/android_external_libmtp" />
@@ -479,6 +481,7 @@
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project name="LineageOS/android_packages_apps_Etar" />
+  <project name="LineageOS/android_packages_apps_EuiccPolicy" />
   <project name="LineageOS/android_packages_apps_ExactCalculator" />
   <project name="LineageOS/android_packages_apps_Exchange" />
   <project name="LineageOS/android_packages_apps_FMRadio" />
